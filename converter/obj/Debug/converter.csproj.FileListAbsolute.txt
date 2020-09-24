@@ -1,0 +1,30 @@
+C:\Users\mohamed\Desktop\converter\converter\bin\Debug\converter.exe.config
+C:\Users\mohamed\Desktop\converter\converter\bin\Debug\converter.exe
+C:\Users\mohamed\Desktop\converter\converter\bin\Debug\converter.pdb
+C:\Users\mohamed\Desktop\converter\converter\obj\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\mohamed\Desktop\converter\converter\obj\Debug\converter.Form1.resources
+C:\Users\mohamed\Desktop\converter\converter\obj\Debug\converter.Properties.Resources.resources
+C:\Users\mohamed\Desktop\converter\converter\obj\Debug\converter.csproj.GenerateResource.Cache
+C:\Users\mohamed\Desktop\converter\converter\obj\Debug\converter.exe
+C:\Users\mohamed\Desktop\converter\converter\obj\Debug\converter.pdb
+C:\Users\mohamed\Desktop\Binary system\converter\bin\Debug\converter.exe.config
+C:\Users\mohamed\Desktop\Binary system\converter\obj\Debug\converter.exe
+C:\Users\mohamed\Desktop\Binary system\converter\obj\Debug\converter.pdb
+C:\Users\mohamed\Desktop\Binary system\converter\bin\Debug\converter.exe
+C:\Users\mohamed\Desktop\Binary system\converter\bin\Debug\converter.pdb
+C:\Users\mohamed\Desktop\Binary system\converter\obj\Debug\converter.csprojResolveAssemblyReference.cache
+C:\Users\mohamed\Desktop\Binary system\converter\obj\Debug\converter.Properties.Resources.resources
+C:\Users\mohamed\Desktop\Binary system\converter\obj\Debug\converter.csproj.GenerateResource.Cache
+C:\Users\mohamed\Desktop\Binary system\converter\obj\Debug\converter.information.resources
+F:\abdo\FCI\my work\apps\Binary system\converter\bin\Debug\converter.exe.config
+F:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.exe
+F:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.pdb
+F:\abdo\FCI\my work\apps\Binary system\converter\bin\Debug\converter.exe
+F:\abdo\FCI\my work\apps\Binary system\converter\bin\Debug\converter.pdb
+F:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.csprojResolveAssemblyReference.cache
+F:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.information.resources
+F:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.Properties.Resources.resources
+F:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.csproj.GenerateResource.Cache
+D:\abdo\FCI\my work\apps\Binary system\converter\bin\Debug\converter.exe.config
+D:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.exe
+D:\abdo\FCI\my work\apps\Binary system\converter\obj\Debug\converter.pdb
